@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# Blog_CRUD_Typescript
+A Full blog application made in Typescript React, and Tailwind CSS used firebase as BAAS(Backend as a service)
+>>>>>>> 81e949410de063df21a60638c879d176366b255d
